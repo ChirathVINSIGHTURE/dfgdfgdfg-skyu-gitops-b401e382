@@ -1,0 +1,10 @@
+apiVersion: v1
+kind: Namespace
+metadata:
+  name: helloworld-staging
+  labels:
+    environment-id: env_8ae1c6eb-3b74-42f6-9779-de2c4df1e145
+    project-id: project_a73f64e0-9336-4991-9b69-b66a69e89595
+    project-name: helloworld
+    environment-name: staging
+    organization-id: org_c50d7b26-1f2a-4a6e-b11e-469a86e002c8

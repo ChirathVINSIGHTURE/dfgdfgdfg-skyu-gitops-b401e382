@@ -1,0 +1,10 @@
+apiVersion: v1
+kind: Namespace
+metadata:
+  name: helloworld-dev
+  labels:
+    environment-id: env_e89390b3-5e6f-4203-b77c-a32c37f00a57
+    project-id: project_a73f64e0-9336-4991-9b69-b66a69e89595
+    project-name: helloworld
+    environment-name: dev
+    organization-id: org_c50d7b26-1f2a-4a6e-b11e-469a86e002c8
