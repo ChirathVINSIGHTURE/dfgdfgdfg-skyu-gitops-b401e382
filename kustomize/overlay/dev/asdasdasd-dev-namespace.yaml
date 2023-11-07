@@ -1,0 +1,10 @@
+apiVersion: v1
+kind: Namespace
+metadata:
+  name: asdasdasd-dev
+  labels:
+    environment-id: env_d4b9c7ed-68fe-47b2-99e5-39e1a66c48f9
+    project-id: project_3a27f851-a51a-45cd-b109-bd464a0a1959
+    project-name: asdasdasd
+    environment-name: dev
+    organization-id: org_c50d7b26-1f2a-4a6e-b11e-469a86e002c8
